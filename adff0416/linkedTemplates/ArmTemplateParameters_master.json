@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "adff0416"
 		},
+		"Linked Service_accountKey": {
+			"value": ""
+		},
+		"Linked Service_properties_typeProperties_url": {
+			"value": "https://sa0401.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
